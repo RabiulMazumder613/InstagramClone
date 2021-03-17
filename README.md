@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Difficulties faced was getting them camerea to open when clicking on "TAKE PICTURE." It just wouldn't open then I went on Slack and saw someone reached out to a TA with the same problem. I had to go to manifest and add certain code to the top and after implementing it my camera finally started working.
 
 ## Open-source libraries used
 
